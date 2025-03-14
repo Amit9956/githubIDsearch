@@ -43,7 +43,7 @@ function App() {
               <p className={`lg:text-3xl text-4xl font-bold ${color ? "text-white" : "text-black"}`}>Amit Kumar</p>
               <p className='lg:text-lg text-md lg:pr-5 '>Joined 20 Jan 2023</p>
             </div>
-            <a className='text-blue-500 mt-3 lg:mx-5 mx-32 underline'>@amit9956</a>
+            <a href='https://github.com/Amit9956' className='text-blue-500 mt-3 lg:mx-5 mx-32 underline'>@amit9956</a>
 
             <div className='lg:w-[95%] text-md my-4 lg:mx-5 mx-2'>
             <p className='flex gap-x-4 '><FaLaptopCode className='mt-1'/>I write Code</p>
